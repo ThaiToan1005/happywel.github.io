@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'San Francisco Display';
+    src: url('SanFranciscoDisplay-Heavy.woff2') format('woff2'),
+        url('SanFranciscoDisplay-Heavy.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
